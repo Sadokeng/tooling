@@ -3,6 +3,9 @@
 ## Test Purposes
 In this section, we are testiing jenkins CI process
 
+## Test for Artifact push
+Here we are seeing how send artifac through ssh works
+
 ## Introduction
 This is a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
 
